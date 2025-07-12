@@ -1,0 +1,449 @@
+[
+    {
+        "id": 0,
+    "name": "Rewa",
+    "day": "neděle 20. 7.",
+    "tips": [
+      {
+        "item": "VRAK LODI",
+        "description": "Uprostřed zeleně přímořského parku, kousek od ulice Wałowa, stojí opuštěný vrak lodi. Nachází se jen kousek od apartmánu.",
+        "map": "https://mapy.com/s/betujevumu"
+      },
+      {
+        "item": "ROZHLEDNA",
+        "description": "Vyhlídka a tursitická trasa v rezervaci Mechelinki Laki. Asi není vhodná pro kolo, vede pískem.",
+        "map": "https://mapy.com/s/balegabuma"
+      },
+      {
+        "item": "PŮJČOVNA KOL FAHRRAD",
+        "address": "Morska 109, Rewa",
+        "description": "Půjčení kol, otevřeno každý den, 9–19 h. Cena za půjčení kola na celý den: 30 zl (1 hodina: 10 zl, každá další hodina 5 zl).",
+        "map": "https://mapy.com/en/turisticka?q=Morska%20109&source=osm&id=1037706652&ds=1&x=18.4973651&y=54.6315208&z=17",
+        "link": "https://kosakowoturystycznie.pl/sport-i-rekreacja/wypozyczalnia-sprzetu/fahrrad-2/"
+      },
+      {
+        "item": "REWSKÁ KOSA",
+        "description": "Písečný poloostrov o délce 800 m. Turisticky atraktivní místo pro sledování západu slunce.",
+        "map": "https://mapy.com/s/ducesuneda"
+      },
+      {
+        "item": "PŘÍRODNÍ REZERVACE BAKI",
+        "description": "Cyklistický výlet k rozhledně v přírodní rezervaci. Délka trasy cca 8 km.",
+        "map": "https://mapy.com/s/nenotofape"
+      },
+      {
+        "item": "ZÁMEK RZUCEWO",
+        "address": "Rzucewo 6, Rzucewo",
+        "description": "Pokud by se nám chtělo, tak je možné cyklistický výlet prodloužit  a dojet do Rzucewa, kde se nachází novogotický zámek. Dnesk slouží jako hotel a restaurace.",
+        "link": "https://zamekrzucewo.pl/",
+        "map": "https://mapy.com/s/nenotofape"
+      },
+      {
+        "item": "OSADA LOVCŮ TULEŇŮ",
+        "address": "Nad Zatoką 9, Rzucewo",
+        "description": "Bývalá osada lovců tuleňů – dnes malé muzeum a kulturní park. Otevřeno denně kromě pondělí, 8–16 h.",
+        "entry": "Dospělí 6 zl, děti 4 zl.",
+        "link": "https://oksitpuck.pl/osada/",
+        "map": "https://mapy.com/s/nenotofape"
+      }
+    ],
+    "image": "/assets/rewa.jpg",
+    "food": [
+      {
+        "item": "RIFFE SUFRPIZZA",
+        "address": "Sztormowa 4, Rewa",
+        "description": "Místní pizzerie.",
+        "map": "https://mapy.com/s/banaluhopo",
+        "link": "https://riffe.pl/"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Babie Doły",
+    "day": "pondělí 21. 7.",
+    "tips": [
+        {
+        "item": "CESTA AUTOBUSEM DO BABIE DOLY",
+        "description": "Cesta autobusem do Babie Doly Plaza. Cesta trvá necelou hodinu, jede se autobusem 146 na Obłuże Centrum 01 a odtud autobusem 309.",
+        "public": "Autobus jede v 8.10 / 8.29 / 8.56 nebo v 9.29 h.",
+        "ticket": "Autobus: 6 zl.",
+        "link": "https://jakdojade.pl/gdynia/Rewa%20-%20Bosma%C5%84ska/Zielona%20-%20Klub%20Garnizonowy?fn=Rewa%20-%20Bosma%C5%84ska&fc=54.63063:18.49676&ft=STOP_GROUP&tn=Zielona%20-%20Klub%20Garnizonowy&tc=54.5815:18.5359&tt=STOP_GROUP&d=21.07.25&h=08:05&ia=false&flid=stop_group;TROJMIASTO;ZKM_GDYNIA;REWA_BOSMANSKA&tlid=stop_group;TROJMIASTO;ZKM_GDYNIA;ZIELONA_KLUB_GARNIZONOWY&fsn=Rewa%20-%20Bosma%C5%84ska&tsn=Zielona%20-%20Klub%20Garnizonowy"
+      },
+      {
+        "item": "POMNÍK MIG 21",
+        "description": " Pomník nacházející se u vojenské základny.",
+        "map": "https://mapy.com/s/pezatuvuve"
+      },
+      {
+        "item": "TORPÉDOVNA",
+        "description": "Jedna z nejpodivnějších budov v Polsku. Vyrostla přímo z moře a připomíná obrovskou válečnou loď. Pochází z období druhé světové války. Němci zde testovali svůj torpédový arzenál. Je přístupná pouze z moře. Kultovní místo pro potápěče. Pokračovat můžeme pěšky do Mechelinek. Délka trasy je 3,5 km.",
+        "map": "https://mapy.com/s/fakusupeta"
+      }
+    ],
+    "image": "/assets/torpedownia2.jpg",
+    "food": [
+      {
+        "description": "Zde se dá maximálně nakoupit v obchodě."
+        }
+        ]
+    },
+  {
+    "id": 2,
+    "name": "Mechelinki",
+    "day": "pondělí 21. 7.",
+    "tips": [
+        {
+        "item": "ÚTES MECHELINKI",
+        "description": "Pobřežní útes vysoký 20–30 m, táhnoucí se od Mechelinek směrem k Babím Dolům. Jeho vrchol nabízí dechberoucí výhledy na Zátoku Gdaňskou s viditelností až na Rewu, Jastarnii či Hel za jasného dne.",
+        "map": "https://mapy.com/s/cerefosada"
+      },
+      {
+        "item": "MECHELINKI, MOLO",
+        "description": "Nové molo v rybářské vesnice Mechelinki.",
+        "map": "https://mapy.com/s/bagavameje"
+      },
+      {
+        "item": "SKANZEN V MECHELINKÁCH",
+        "description": "Venkovní expozice s naučnou stezkou, otevřeno 24 hodin denně.",
+        "map": "https://mapy.com/s/barepofofe",
+        "link": "http://skansenwmechelinkach.pl/"
+      },
+      {
+        "item": "CESTA DO REWY",
+        "transport": "Z Mechelinek do Rewy jezdí několikrát do hodiny autobusy 146 a 165, cesta trvá sedm minut.",
+        "ticket": "Autobus: 4,80 zl.",
+        "link": "https://jakdojade.pl/gdynia/Mechelinki%20-%20Przysta%C5%84/Rewa%20-%20Bosma%C5%84ska?fn=Mechelinki%20-%20Przysta%C5%84&fc=54.60888:18.51159&ft=STOP_GROUP&tn=Rewa%20-%20Bosma%C5%84ska&tc=54.63032:18.49697&tt=STOP_GROUP&d=21.07.25&h=14:34&ia=false&flid=stop_group;TROJMIASTO;ZKM_GDYNIA;MECHELINKI_PRZYSTAN&tlid=stop_group;TROJMIASTO;ZKM_GDYNIA;REWA_BOSMANSKA&fsn=Mechelinki%20-%20Przysta%C5%84&tsn=Rewa%20-%20Bosma%C5%84ska"
+      }
+    ],
+    "image": "/assets/mechelinki2.jpg",
+    "food": [
+      {
+        "item": "HALA SPRZEDAŻY W MECHELINKACH",
+        "address": "Nadmorska 32, Mechelinki",
+        "description": "Malý market s lokálními produkty.",
+        "map": "https://mapy.com/s/muhucebero",
+        "link": "https://maps.app.goo.gl/rQqgcunqj7mpwBCt6"
+      },
+      {
+        "item": "SŁODKI CHŁÓD WHC",
+        "address": "Nadmorska 47, Mechelinki",
+        "description": "Zmrzlina, vafle. Otevřeno od 11 do 19 hodin (v neděli a pátek od 13 hodin).",
+        "link": "https://maps.app.goo.gl/bx2FMixLz31GwXF68"
+      }
+    ]
+  },
+    {
+        "id": 3,
+        "name": "Gdaňsk",
+        "day": "úterý 22. 7.",
+        "tips": [
+            {
+                "item": "CESTA DO GDAŇSKU",
+                "description": "Z Gdyně se do centra Gdaňsku dostaneme vlakem. Na zastávku Gdaňsk Glówna trvá cesta 35 min.",
+                "transport": "Autobusem 146 na Gdynia Glówna (v 8.10 / 8.29 / 8.56 nebo v 9.29 h) nebo autobusem 165 na Gdynia Chylonia (v 8.17 / 8.47 nebo 9.12 h). Vlaky jedou zhruba každých 10 min.",
+                "ticket": "Autobus: 4,80 zl, vlak: 9,60 zl.",
+                "map": "https://mapy.com/s/hobonalula"
+            },
+             {
+                "item": "CESTA DO MUZEA",
+                "description": "Cestou do muzea projdeme okolo Velkého mlýnu a zastavit se můžeme v Hale Targova pro něco na jídlo.",
+                "map": "https://mapy.com/s/hobonalula"
+            },
+            {
+                "item": "MUZEUM DRUHÉ SVĚTOVÉ VÁLKY",
+                "address": "Muzeum Plac Wladyslawa Bartoszewskiego 1, Gdaňsk",
+                "description": "Silné a promyšlené muzeum – moderní expozice, hodně audiovizuálních prvků, vhodné i pro děti. Zabere to minimálně 2 hodiny, klidně i víc. Otevřeno út–ne, 10-18 hodin",
+                "entry": "Rodinné vstupné: 72 zl (v úterý je volný vstup).",
+                "public": "Zastávka Muzeum II Wojny Swiatowej, dá se tam ale dojít i pěšky. Z nádraží sem jede autobus (208, 130, 100, 106), cesta trvá 7 min",
+                "map": "https://mapy.com/s/humavenesu",
+                "link": "https://muzeum1939.pl/en"
+            },
+            {
+                "item": "HISTORICKÉ CENTRUM GDAŇSKU",
+                "description": "Doporučená trasa: z muzea půjdeme k řece ke starému přístavnímu jeřábu Žuraw. Odtud budeme pokračovat k Mariacké ulici s galeriemi a jantarem. U ní se nachází Bazilika Panny Marie. Projdeme hlavní ulicí Dlugi Targ (fontána s Neptunem, Artušův dvůr, Radnice), Zelenou bránou a skončíme na vlakovém nádraží Gdańsk Śródmieście.",
+                "entry": "Bazilika – volný vstup.",
+                "map": "https://mapy.com/s/hobonalula"
+            },
+            {
+                "item": "PLÁŽ BRZÉZNO/JELITKOWO",
+                "description": "Pokud nebudeme unavení a budeme mít chuť se koupat, můžeme vyrazit na pláž. Nejoblíbenější jsou pláže Brzézno (molo, dětské hřiště) a Jelitkowo.",
+                "public": "K plážím se můžeme ze zastávky Śródmieście SKM 01 dostat tramvajemi za půl hodiny – na pláž Brzézno jede tramvaj č. 3, na pláž Jelitkowo tramvaj č. 2. Cesta zpět: z Brzézno ze zastávky Wczasy na nádraží Gdaňsk Wrzeszcz tramvají č. 5 (25 min.), z Jelitkowo na Gdaňsk Oliwa tramvají č. 6 (cesta 11 min.).",
+                "ticket": "Tramvaj: 4,60 zl.",
+                "map": "https://mapy.com/s/decotelono"
+            },
+              {
+                "item": "CESTA ZPĚT DO GDYNĚ",
+                "public": "Z centra se na nádraží Gdańsk Śródmieście dostaneme pěšky, pokud pojedeme z pláže, tak pojedeme z jiných nádraží.",
+                "transport": "Z Gdaňsku jede vlak každých 7 min.",
+                "ticket": "Cesta vlakem do Gdyně: 9,60 zl.",
+                "link": "https://mapy.com/s/lefotunefe"
+            }
+        ],
+        "image": "/assets/gdansk.jpg",
+        "food": [
+            {
+                "item": "HALA TARGOWA GDAŇSK",
+                "address": "Plac Dominikański 1, Gdańsk",
+                "description": "Tržnice s dlouhou historií, kde to pořád žije – uvnitř stánky s ovocem, zeleninou, pečivem i uzeninami, a ve spodním patře je malé bistro s tradiční polskou kuchyní (např. pierogi, žurek nebo bigos za pár zlotých). Před halou bývá venkovní trh – čerstvé květiny, lokální med nebo oblečení.",
+                "map": "https://mapy.com/s/cukugufese"
+                },
+                {
+                "item": "FORUM GDAŇSK",
+                "address": " Targ Sienny 7, Gdańsk",
+                "description": "Nákupní centrum u nádraží Gdańsk - Śródmieście. Z terasy je výhled na historické centrum.",
+                "map": "https://mapy.com/s/kozaluzuha",
+                "link": "https://www.forumgdansk.pl/"
+                },
+                                {
+                "item": "VAFLE",
+                "description": "Na plážích je dostatek prodejen vaflí a zmrzliny – např. GoForY Gofry na patyku, Słodka Wyspa, Lody Gofry Maya,  OKRĄGŁE GOFRY",
+                "map": "https://www.google.com/maps/search/gofry/@54.4216443,18.5994839,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
+                }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Gdyně",
+        "day": "středa 23. 7.",
+        "tips": [
+            {
+                "item": "INFOBOX",
+                "address": "Świętojańska 30, Gdynia",
+                "description": "Infocentrum s vyhlídkovou věží. Futuristická stavba z modrých kontejnerů slouží jako galerie, kavárna i kulturní centrum. Otevřeno každý den, 10–18 h (o víkendu zkrácená otevírací doba).",
+                "entry": "Vstup volný.",
+                "transport": "Autobusem 146 na Gdynia Główna (v 8.10 / 8.29 / 8.56 nebo v 9.29 h). Cesta trvá 45 min. Odtud se vydáme pěšky.",
+                "ticket": "Autobus: 4,80 zl.",
+                "map": "https://mapy.com/s/cuzarajufo"
+            },
+            {
+                "item": "LANOVKA KAMIENNA GÓRA",
+                "address": "Plac Grunwaldzki 1, Gdynia",
+                "description": "Lanovka začíná asi šest set metrů od Jižního mola, u náměstí Plac Grunwaldzki. Lanovka překonává vzdálenost 96 metrů a převýšení 40 metrů. Horní stanice lanovky je poblíž Kříže na Kamenné hoře, odkud je dobrý výhled do okolí. Kabinky lanovky jsou prosklené a jsou až pro dvanáct stojících pasažérů (případně pro osm sedících). Lanovka je v provozu po celý rok, a to od pondělí do pátku od 10 do 20 hodin a v sobotu a v neděli od 10 do 22 hodin.",
+                "ticket": "Zdarma.",
+                "map": "https://mapy.com/s/nedasabubo"
+            },
+            {
+                "item": "MUZEUM VOJENSKÉHO NÁMOŘNICTVA",
+                "address": "Zawiszy Czarnego 1B, Gdynia",
+                "description": "Muzeum vojenského námořnictva nabízí dvě nové stálé expozice: různé druhy námořních zbraní používaných ve dvacátém století a historii plachetnic od pozdního středověku do druhé poloviny devatenáctého století. Otevřeno út–ne, 10–18 h.",
+                "entry": "Dospělí: 30 zl, děti do 7 let zdarma. V pátky volný vstup.",
+                "map": "https://mapy.com/s/nugevetafa",
+                "link": "https://muzeummw.pl/en/main/"
+            },
+            {
+                "item": "AKVÁRIUM",
+                "address": "Aleja Jana Pawła II 1, Gdynia",
+                "description": "Oblíbené rodinné místo přímo u mola v Gdyni. Uvnitř desítky akvárií s mořskými i sladkovodními živočichy z celého světa. Otevřeno denně, 9–19 hod. ",
+                "entry": "Dospělí: 45 zl, děti do 5 let zdarma.",
+                "map": "https://mapy.com/s/halagekege",
+                "link": "https://akwarium.gdynia.pl/en/"
+            },
+              {
+                "item": "PŘÍSTAV – JIŽNÍ MOLO",
+                "address": "Aleja Jana Pawła II 13, Gdynia",
+                "description": "Přístav si je možné prohlédnout z vyhlídkové plavby lodí. Bohužel jde o docela drahou zábavu. Ve ddnch naší dovolené zde budou probíhat Gdynia Sailing Days. ",
+                "entry": "Dospělí: 65 zl, děti 50 zl. "
+            },
+            {
+                "item": "FRANCOUZSKÉ NÁBŘEŽÍ",
+                "address": "Aleja Jana Pawła II 1, Gdynia",
+                "description": "Nábřeží v gdyňském přístavu. Je zde možnost sledovat i více než tři sta metrů dlouhé výletní lodě. Od Francouzského nábřeží vyplouvají i trajekty Stena Line do švédské Karlskrony. V neděli 20. 7. zde bude kotvit výletní loď Aurora, ve čvrtek 24. 7. Aidadiva. Nejbližší zastávkou MHD je zastávka „Dworzec Morski – Muzeum Emigracji.",
+                "map": "https://mapy.com/s/celuhokute",
+                "link": "https://jakdojade.pl/gdynia/Aleja%20Jana%20Paw%C5%82a%20II%2011a/Dworzec%20Morski%20-%20Muzeum%20Emigracji?fn=Aleja%20Jana%20Paw%C5%82a%20II%2011a&fc=54.5188872585843:18.549653525621267&ft=COORDINATE&tn=Dworzec%20Morski%20-%20Muzeum%20Emigracji&tc=54.53264:18.5467&tt=STOP_GROUP&d=10.07.25&h=15:23&ia=false&tlid=stop_group;TROJMIASTO;ZKM_GDYNIA;DWORZEC_MORSKI_MUZEUM_EMIGRACJI&tsn=Dworzec%20Morski%20-%20Muzeum%20Emigracji"
+            },
+            {
+                "item": "MUZEUM EMIGRACE",
+                "address": "Polska 1, Gdynia",
+                "description": "Muzeum emigrace představuje 200 let polské emigrace od 19. století až po současnost. Nachází se v bývalé námořní stanici, která od 30. let 20. století do roku 1979 sloužila jako tranzitní budova, odkud tisíce polských emigrantů odjížděly do svých nových domovů. Otevřeno út–ne, 10–18 hod.",
+                "entry": "Dospělí: 21 zl, děti do 7 let zdarma. Ve středu volný vstup.",
+                "link": "https://polska1.pl/"
+            },
+            {
+                "item": "MOLO ORLOWO",
+                "address": "Orłowska 12, Gdynia",
+                "description": "Molo v Orlowie je sto osmdesát metrů dlouhé dřevěné molo, které se nachází v gdyňské čtvrti Orlowo. Původní dřevěné molo z roku 1934 mělo délku 430 metrů a bylo poničeno bouří v zimě roku 1949. Z mola v Orlowie je mimo jiné hezký výhled na místní orlowský útes (Klif Orlowski) a uvidíme odsud i molo v Sopotech.",
+                "entry": "Volný vstup.",
+                "public": " Ideálně se sem dopravit autobusem ze Skwer Kościuszki – InfoBox 02 nebo od nádraží. Trolejbusy S, 21, 26, ... Na zastávku Orłowo SKM - Orłowska 02. Jezdí sem i vlaky. Od nádraží Orlowo by v létě měla jezdit na pláž bezplatná linka Orlowski meleks.",
+                "ticket": "Trolejbus: 4,80 zl.",
+                "map": "https://mapy.com/s/cufojafumo",
+                "link": "https://zkmgdynia.pl/orlowski-meleks/"
+            },
+            {
+                "item": "CENTRUM NAUKI EXPERYMENT",
+                "address": " Aleja Zwycięstwa 96/budynek 2, Gdynia",
+                "description": "Vědecké centrum Experyment nabízí interaktivní výstavu, která poskytuje prostor pro kreativní experimentování. Právě zde se rodí fascinace vědou. Otevřeno denně, 9–18 h.",
+                "entry": "Rodinné vstupné: 100 zl (80 + 20).",
+                "public": " Zastávka Centrum Nauki Experyment, jezdí sem trolejbusy z centra (linky R, 24, 32).",
+                "ticket": "Trolejbus: 4,80 zl.",
+                "map": "https://mapy.com/s/lecomegasa",
+                "link": "https://experyment.gdynia.pl/en/"
+            },
+            {
+                "item": "OGRÓD BOTANICZNY MARSZEWO",
+                "address": "Marszewska 5, Gdynia",
+                "description": "Nejmladší polská botanická zahrada, kterou založila a provozuje Gdaňská lesní správa. Je zde k vidění několik set druhů stromů, keřů a bylin. Bezplatné vzdělávací aktivity pro organizované skupiny. Otevřeno 10–15 h.",
+                "entry": "Vstup zdarma.",
+                "public": " Od Chylonia Dworzec PKP jede autobus 288 na zastávku Ogród Botaniczny Marszewo. Cesta trvá 10 minut.",
+                "ticket": "Autobus: 6 zl.",
+                "map": "https://mapy.com/s/cegevufaca",
+                "link": "https://www.marszewo.edu.pl/"
+            }
+        ],
+        "image": "/assets/gdynia.jpg",
+        "food": [
+            {
+                "item": "MIEJSKA HALA TARGOWA",
+                "address": "Wójta Radtkego 36, Gdynia",
+                "description": "Trh se zhruba 400 stánky s čerstvým ovocem, zeleninou, masem, rybami, ale i řemeslnými výrobky a suvenýry. Jeden z nejlepších příkladů polského meziválečného konstruktivismu.",
+                "map": "https://mapy.com/s/mufudukaje",
+                "link": "https://www.haletargowegdynia.pl/"
+            },
+            {
+                "item": "GDYNSKA ZAPIEKANKA",
+                "address": "Świętojańska 18, Gdynia",
+                "description": "Místní klasika: zapékané bagety. Cena cca 13 zl, hranolky 9 zl.",
+                "map": "https://mapy.com/s/jezonulaza",
+                "link": "https://g.co/kgs/zXZF8fN"
+            },
+            {
+                "item": "PIEROŻEK",
+                "address": "Skwer Kościuszki 15, Gdynia",
+                "description": "Pirožky, 20–30 zl za porci, slané i slané. Nachází se nedaleko mola/lanovky.",
+                "map": "https://mapy.com/s/fatapufova",
+                "link": "https://www.tripadvisor.com/Restaurant_Review-g274726-d14177396-Reviews-Pierogarnia_Pierozek-Gdynia_Pomerania_Province_Northern_Poland.html"
+            }
+        ]
+    },
+     {
+    "id": 5,
+    "name": "ZOO GDAŇSK OLIWA",
+    "day": "čtvrtek 24. 7.",
+    "tips": [
+      {
+        "item": "ZOO GDAŇSK OLIWA",
+        "address": "Karwieńska 3, Gdańsk",
+        "description": "Největší polská ZOO, nachází se v lesoparku. Otevřeno denně, 9–19 hodin. Vstupenky koupit ideálně on-line.",
+        "entry": "Rodinné vstupné: 140 zl.",
+        "transport": "Autobusem 146 na Gdynia Glówna (v 8.10 / 8.29 / 8.56 nebo v 9.29 h) nebo autobusem 165 na Gdynia Chylonia (v 8.17 / 8.47 nebo 9.12 h). Vlaky jedou zhruba každých 10 min, cesta do zastávky Gdaňsk Oliwa trvá 19 minut.",
+        "public": "Do ZOO jezdí autobusy 622 a 169 ze zastávky Oliwa 06. Vystupuje se na zastávce Oliwa ZOO, cesta trvá 7 min.",
+        "ticket": "Cesty autobusem: každá 4,80 zl. Cesta vlakem vyjde na 7,70 zl.",
+        "map": "https://mapy.com/s/namozeheje",
+        "link": "https://bilety.zoo.gda.pl/index.html?lang=en"
+        },
+      {
+        "item": "CESTA DO SOPOT",
+        "transport": "Cesta vlakem do Sopot trvá jen 5 minut.",
+        "entry": "Vlak: 5,50 zl.",
+        "link": "https://koleo.pl/rozklad-pkp/gdansk-oliwa/sopot/24-07-2025_13:00"
+      }
+    ],
+    "image": "/assets/zoo.jpg",
+    "food": [
+      {
+        "item": "SUPERMARKET BIEDRONKA",
+        "address": "Leona Droszyńskiego 28A,Gdańsk",
+        "description": "Kousek od nádraží Gdaňsk Oliwa.",
+        "map": "https://mapy.com/s/kusozuzatu"
+    }
+    ]
+  },
+    {
+    "id": 6,
+    "name": "Sopoty",
+    "day": "čtvrtek 24. 7.",
+    "tips": [
+        {
+        "item": "ULICE BOHATÉROW MONTE CASSINO",
+        "description": "Sopotská promenáda, vedoucí od železniční trati, respektive od ulice Aleja Niepodległości směrem k moři. Ulice je dlouhá 635 metrů a přezdívá se jí „Monciak“. Najdeme zde mnoho restaurací a kaváren.",
+        "map": "https://mapy.com/s/nehanuzemu"
+      },
+       {
+        "item": "KŘIVÝ DŮM",
+        "address": "Bohaterów Monte Cassino 53, Sopoty",
+        "description": "Křivý dům najdeme ve spodní části promenády. Jde o novodobou atrakci Sopot.",
+        "map": "https://mapy.com/s/lomokucoka"
+      },
+      {
+        "item": "SOPOTSKÉ MOLO",
+        "address": "Plac Zdrojowy 2A, Sopoty",
+        "description": "Jedná se o nejdelší molo v Baltském moři a zároveň o nejdelší dřevěné molo v Evropě.",
+        "entry": "Dospělí 10 zl, děti 5zl.",
+        "map": "https://mapy.com/s/nehanuzemu"
+      },
+      {
+        "item": "MAJÁK SOPOTY",
+        "address": "Plac Zdrojowy 3, Sopoty",
+        "description": "Věž majáku je vysoká třicet metrů a světelný zdroj je umístěn ve výšce dvaceti pěti metrů. Věž je hranolovitá s ochozem, na který je přístup po točitém schodišti. Otevřeno každý den, 9–21 hod.",
+        "entry": "Dospělí 10 zl, děti 8 zl.",
+        "map": "https://mapy.com/s/mavusemezo",
+        "link": "https://www.latarniamorskasopot.pl/"
+      },
+      {
+        "item": "PLÁŽ, DĚTSKÉ HŘIŠTĚ",
+        "address": "Aleja Francizska Mamuszki, Sopoty",
+        "description": "V případě hezkého počasí můžeme vyrazit na pláž, nachází se u ní i dětská hřiště. Případně se mužeme projít alejí na vlakové nádraží Sopoty Kamienny Potok.",
+        "map": "https://mapy.com/s/hatevozuba"
+      },
+      {
+        "item": "CESTA DO REWY",
+        "transport": "Vlak na Gdynie Glówna jede 13 minut, odtud pojedeme autobusem 146 do Rewy.",
+        "ticket": "Vlak: 6,50 zl, autobus: 4,80 zl.",
+        "link": "https://koleo.pl/rozklad-pkp/sopot/gdynia-glowna/24-07-2025_15:00"
+      }
+    ],
+    "image": "/assets/sopot.jpg",
+    "food": [
+      {
+        "item": "KROPKA BAR",
+        "address": "Plac Zdrojowy 3, Sopoty",
+        "description": "Bar poblíž mola, nabízí vafle, hranolky, zapiekanka, kebab, falafel atd.",
+        "map": "https://mapy.com/s/cofurusavo",
+        "link": "https://g.co/kgs/38wi3vJ"
+      },
+      {
+        "item": "KULKI ANULKI",
+        "address": "Tadeusza Kościuszki 6, Sopoty",
+        "description": "Zmrzlinárna poblíž nádtraží.",
+        "map": "https://mapy.com/s/nesumonujo",
+        "link": "https://www.facebook.com/kulkianulki"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hel",
+    "day": "pátek 25. 7.",
+    "tips": [
+      {
+        "item": "PLAVBA LODÍ",
+        "address": "Koralowa, Rewa",
+        "description": "Z Rewy do Jastarnie plují katamarány, cesta trvá asi 75 min. Momentálně to ale vypadá, že jsou mimo provoz.",
+        "transport": "Lodě odplouvají v 9, 12, 15 a 18 h, zpět v 10.30, 13.30, 16.30 a 19.30 h.",
+        "ticket": "Dospělí 65 zl (zpáteční 120 zl), děti 55 zl (110 zl), děti do 4 let zdarma.",
+        "link": "https://rejsywodne.pl/"
+      },
+      {
+        "item": "MAJÁK JASTARNIA",
+        "address": "Kościuszki 2A, Jastarnia",
+        "description": "Maják je uzavřený, nachází se kousek od pláže.",
+        "map": "https://mapy.com/s/mamavuzeve"
+      },
+      {
+        "item": "CESTA VLAKEM DO HELU",
+        "transport": "Z Jastarnie se dá popojet vlakem do Helu, cesta trvá cca 15 minut.",
+        "ticket": "Vlak: 7,70 zl."
+      }
+    ],
+    "image": "/assets/hel.jpg",
+    "food": [
+      {
+        "item": "CASA DI TUZZA NA PLAZY",
+        "address": "Plaża przyzatokowa, Polna 5a, Jastarnia",
+        "description": "Palačinky, pizza, sendviče, ...",
+        "map": "https://mapy.com/s/norovezelo",
+        "link": "https://www.google.com/maps/place/Casa+di+Tuzza+na+pla%C5%BCy/@54.6993381,18.6645919,19z/data=!4m6!3m5!1s0x46fdab740fbc1035:0x632279c39b410cfa!8m2!3d54.6992878!4d18.6642131!16s%2Fg%2F11xmy36687?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    ]
+  }
+]
