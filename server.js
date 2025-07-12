@@ -4,15 +4,15 @@ const cors = require('cors');
 const path = require('path');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
-app.use(cors()); // Povolit přístup z frontendu
+app.use(cors());
 
-// Slouží složku s obrázky
+// Servíruje složku assets (fotky)
 app.use('/assets', express.static(path.join(__dirname, 'assets')));
 
-// Endpoint pro výlety
-app.get('/trips', (req, res) => {
+// Endpoint pro trips s prefixem /api
+app.get('/api/trips', (req, res) => {
   const filePath = path.join(__dirname, 'api', 'trips.json');
 
   fs.readFile(filePath, (err, data) => {
