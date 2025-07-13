@@ -11,7 +11,7 @@
       },
       {
         "item": "ROZHLEDNA",
-        "description": "Vyhlídka a tursitická trasa v rezervaci Mechelinki Laki. Asi není vhodná pro kolo, vede pískem.",
+        "description": "Vyhlídka a turistická trasa v rezervaci Mechelinki Laki. Území rezervace je rovinaté a nízko položené, protkané odvodňovacími kanály. Písčité půdy v této oblasti byly díky pronikání a pravidelnému zaplavování slanou vodou zálivu přeměněny na rašeliniště. Jsou hnízdištěm vzácných druhů vodních a mokřadních ptáků.",
         "map": "https://mapy.com/s/balegabuma"
       },
       {
@@ -23,12 +23,12 @@
       },
       {
         "item": "REWSKÁ KOSA",
-        "description": "Písečný poloostrov o délce 800 m. Turisticky atraktivní místo pro sledování západu slunce.",
+        "description": "Písečný poloostrov o délce 800 m. Dělí Puckou zátoku na dvě části.  Kolem je mělčina a jednou za rok se tu koná pochod až na Hel. Jinak jde o turisticky atraktivní místo pro sledování západu slunce.",
         "map": "https://mapy.com/s/ducesuneda"
       },
       {
-        "item": "PŘÍRODNÍ REZERVACE BAKI",
-        "description": "Cyklistický výlet k rozhledně v přírodní rezervaci. Délka trasy cca 8 km.",
+        "item": "PŘÍRODNÍ REZERVACE BEKA",
+        "description": "Cyklistický výlet k rozhledně v přírodní rezervaci. Přírodní rezervace Beka se nachází v mokřadech delty ústí řeky Reda do Pucké zátoky Baltského moře, v okolí zaniklé osady Beka. Délka trasy cca 8 km.",
         "map": "https://mapy.com/s/nenotofape"
       },
       {
@@ -65,14 +65,14 @@
     "tips": [
         {
         "item": "CESTA AUTOBUSEM DO BABIE DOLY",
-        "description": "Cesta autobusem do Babie Doly Plaza. Cesta trvá necelou hodinu, jede se autobusem 146 na Obłuże Centrum 01 a odtud autobusem 309.",
+        "description": "Cesta autobusem do Babie Doly Plaza. Cesta trvá necelou hodinu, jede se autobusem 146 na Obłuże Centrum 01 a odtud autobusem 309. Vystoupíme buď na zastávce Zielona - Klub Garnizonowy a prohlédneme si pomník nebo pojedeme až k pláži.",
         "public": "Autobus jede v 8.10 / 8.29 / 8.56 nebo v 9.29 h.",
         "ticket": "Autobus: 6 zl.",
         "link": "https://jakdojade.pl/gdynia/Rewa%20-%20Bosma%C5%84ska/Zielona%20-%20Klub%20Garnizonowy?fn=Rewa%20-%20Bosma%C5%84ska&fc=54.63063:18.49676&ft=STOP_GROUP&tn=Zielona%20-%20Klub%20Garnizonowy&tc=54.5815:18.5359&tt=STOP_GROUP&d=21.07.25&h=08:05&ia=false&flid=stop_group;TROJMIASTO;ZKM_GDYNIA;REWA_BOSMANSKA&tlid=stop_group;TROJMIASTO;ZKM_GDYNIA;ZIELONA_KLUB_GARNIZONOWY&fsn=Rewa%20-%20Bosma%C5%84ska&tsn=Zielona%20-%20Klub%20Garnizonowy"
       },
       {
         "item": "POMNÍK MIG 21",
-        "description": " Pomník nacházející se u vojenské základny.",
+        "description": " Pomník nacházející se u vojenské základny. Vojenské letiště Babie Doły v Polsku má spojitost s letouny MiG-21, konkrétně s 34. leteckým plukem námořnictva (34. PLM), který tam sídlil.",
         "map": "https://mapy.com/s/pezatuvuve"
       },
       {
@@ -95,12 +95,12 @@
     "tips": [
         {
         "item": "ÚTES MECHELINKI",
-        "description": "Pobřežní útes vysoký 20–30 m, táhnoucí se od Mechelinek směrem k Babím Dolům. Jeho vrchol nabízí dechberoucí výhledy na Zátoku Gdaňskou s viditelností až na Rewu, Jastarnii či Hel za jasného dne.",
+        "description": "Pobřežní útes vysoký 20–30 m, táhnoucí se od Mechelinek směrem k Babím Dolům. Jeho vrchol nabízí dechberoucí výhledy na Zátoku Gdaňskou s viditelností až na Rewu, Jastarnii či Hel za jasného dne.",
         "map": "https://mapy.com/s/cerefosada"
       },
       {
         "item": "MECHELINKI, MOLO",
-        "description": "Nové molo v rybářské vesnice Mechelinki.",
+        "description": "Nové molo v rybářské vesnici Mechelinki.",
         "map": "https://mapy.com/s/bagavameje"
       },
       {
