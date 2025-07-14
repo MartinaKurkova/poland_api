@@ -65,7 +65,7 @@
     "tips": [
         {
         "item": "CESTA AUTOBUSEM DO BABIE DOLY",
-        "description": "Cesta autobusem do Babie Doly Plaza. Cesta trvá necelou hodinu, jede se autobusem 146 na Obłuże Centrum 01 a odtud autobusem 309. Vystoupíme buď na zastávce Zielona - Klub Garnizonowy a prohlédneme si pomník nebo pojedeme až k pláži.",
+        "description": "Cesta autobusem do Babie Doly Plaza. Pojedeme necelou hodinu autobusem 146 na Obłuże Centrum 01 a odtud autobusem 309. Vystoupíme buď na zastávce Zielona – Klub Garnizonowy a prohlédneme si pomník nebo pojedeme až k pláži.",
         "public": "Autobus jede v 8.10 / 8.29 / 8.56 nebo v 9.29 h.",
         "ticket": "Autobus: 6 zl.",
         "link": "https://jakdojade.pl/gdynia/Rewa%20-%20Bosma%C5%84ska/Zielona%20-%20Klub%20Garnizonowy?fn=Rewa%20-%20Bosma%C5%84ska&fc=54.63063:18.49676&ft=STOP_GROUP&tn=Zielona%20-%20Klub%20Garnizonowy&tc=54.5815:18.5359&tt=STOP_GROUP&d=21.07.25&h=08:05&ia=false&flid=stop_group;TROJMIASTO;ZKM_GDYNIA;REWA_BOSMANSKA&tlid=stop_group;TROJMIASTO;ZKM_GDYNIA;ZIELONA_KLUB_GARNIZONOWY&fsn=Rewa%20-%20Bosma%C5%84ska&tsn=Zielona%20-%20Klub%20Garnizonowy"
@@ -153,9 +153,9 @@
             {
                 "item": "MUZEUM DRUHÉ SVĚTOVÉ VÁLKY",
                 "address": "Muzeum Plac Wladyslawa Bartoszewskiego 1, Gdaňsk",
-                "description": "Silné a promyšlené muzeum – moderní expozice, hodně audiovizuálních prvků, vhodné i pro děti. Zabere to minimálně 2 hodiny, klidně i víc. Otevřeno út–ne, 10-18 hodin",
+                "description": "Silné a promyšlené muzeum – moderní expozice, hodně audiovizuálních prvků, vhodné i pro děti. Návštěva zabere minimálně 2 hodiny, klidně i víc. Otevřeno út–ne, 10–18 hodin.",
                 "entry": "Rodinné vstupné: 72 zl (v úterý je volný vstup).",
-                "public": "Zastávka Muzeum II Wojny Swiatowej, dá se tam ale dojít i pěšky. Z nádraží sem jede autobus (208, 130, 100, 106), cesta trvá 7 min",
+                "public": "Zastávka Muzeum II Wojny Swiatowej. Z nádraží sem jede autobus (208, 130, 100, 106), cesta trvá 7 min. Dá se tam ale dojít i pěšky.",
                 "map": "https://mapy.com/s/humavenesu",
                 "link": "https://muzeum1939.pl/en"
             },
@@ -197,7 +197,7 @@
                 },
                                 {
                 "item": "VAFLE",
-                "description": "Na plážích je dostatek prodejen vaflí a zmrzliny – např. GoForY Gofry na patyku, Słodka Wyspa, Lody Gofry Maya,  OKRĄGŁE GOFRY",
+                "description": "Na plážích je dostatek prodejen vaflí a zmrzliny – např. GoForY Gofry na patyku, Słodka Wyspa, Lody Gofry Maya,  OKRĄGŁE GOFRY.",
                 "map": "https://www.google.com/maps/search/gofry/@54.4216443,18.5994839,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
                 }
         ]
@@ -242,7 +242,7 @@
               {
                 "item": "PŘÍSTAV – JIŽNÍ MOLO",
                 "address": "Aleja Jana Pawła II 13, Gdynia",
-                "description": "Přístav si je možné prohlédnout z vyhlídkové plavby lodí. Bohužel jde o docela drahou zábavu. Ve ddnch naší dovolené zde budou probíhat Gdynia Sailing Days. ",
+                "description": "Přístav si je možné prohlédnout z vyhlídkové plavby lodí. Bohužel jde o docela drahou zábavu. Ve dnech naší dovolené zde budou probíhat Gdynia Sailing Days. ",
                 "entry": "Dospělí: 65 zl, děti 50 zl. "
             },
             {
@@ -264,7 +264,7 @@
                 "address": "Orłowska 12, Gdynia",
                 "description": "Molo v Orlowie je sto osmdesát metrů dlouhé dřevěné molo, které se nachází v gdyňské čtvrti Orlowo. Původní dřevěné molo z roku 1934 mělo délku 430 metrů a bylo poničeno bouří v zimě roku 1949. Z mola v Orlowie je mimo jiné hezký výhled na místní orlowský útes (Klif Orlowski) a uvidíme odsud i molo v Sopotech.",
                 "entry": "Volný vstup.",
-                "public": " Ideálně se sem dopravit autobusem ze Skwer Kościuszki – InfoBox 02 nebo od nádraží. Trolejbusy S, 21, 26, ... Na zastávku Orłowo SKM - Orłowska 02. Jezdí sem i vlaky. Od nádraží Orlowo by v létě měla jezdit na pláž bezplatná linka Orlowski meleks.",
+                "public": " Ideálně se sem dopravit autobusem ze Skwer Kościuszki – InfoBox 02 nebo od nádraží (trolejbusy S, 21, 26, ...). s výstupem na zastávce Orłowo SKM - Orłowska 02. Jezdí sem i vlaky. Od nádraží Orlowo by v létě měla jezdit na pláž bezplatná linka Orlowski meleks.",
                 "ticket": "Trolejbus: 4,80 zl.",
                 "map": "https://mapy.com/s/cufojafumo",
                 "link": "https://zkmgdynia.pl/orlowski-meleks/"
@@ -323,7 +323,7 @@
       {
         "item": "ZOO GDAŇSK OLIWA",
         "address": "Karwieńska 3, Gdańsk",
-        "description": "Největší polská ZOO, nachází se v lesoparku. Otevřeno denně, 9–19 hodin. Vstupenky koupit ideálně on-line.",
+        "description": "Největší polská ZOO dle rozlohy, nachází se v lesoparku. Otevřeno denně, 9–19 hodin. Vstupenky koupit ideálně on-line.",
         "entry": "Rodinné vstupné: 140 zl.",
         "transport": "Autobusem 146 na Gdynia Glówna (v 8.10 / 8.29 / 8.56 nebo v 9.29 h) nebo autobusem 165 na Gdynia Chylonia (v 8.17 / 8.47 nebo 9.12 h). Vlaky jedou zhruba každých 10 min, cesta do zastávky Gdaňsk Oliwa trvá 19 minut.",
         "public": "Do ZOO jezdí autobusy 622 a 169 ze zastávky Oliwa 06. Vystupuje se na zastávce Oliwa ZOO, cesta trvá 7 min.",
