@@ -334,7 +334,7 @@
       {
         "item": "CESTA DO SOPOT",
         "transport": "Cesta vlakem do Sopot trvá jen 5 minut.",
-        "entry": "Vlak: 5,50 zl.",
+        "ticket": "Vlak: 5,50 zl.",
         "link": "https://koleo.pl/rozklad-pkp/gdansk-oliwa/sopot/24-07-2025_13:00"
       }
     ],
